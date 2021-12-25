@@ -1,5 +1,5 @@
 # alveo_cnn
-FPGAボード上でのCNNの実装
-モデル：modelフォルダで自作
-C++コード：
-高位合成：compile.pyから
+## FPGAボード上でのCNNの実装
+## モデル：modelフォルダで作成した
+## C++コード：CPU_timeファルダ内
+## 高位合成：compile.pyから
